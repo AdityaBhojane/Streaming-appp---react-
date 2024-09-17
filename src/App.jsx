@@ -7,6 +7,7 @@ function App() {
   return (
     <>
      <h1>Welcome to Streaming app setup ( delete this when you start )</h1>
+     <h2>Hello world </h2>
      <SimpleCollapse/>
      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos, quo.</p>
     </>
