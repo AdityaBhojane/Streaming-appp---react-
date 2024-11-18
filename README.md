@@ -6,3 +6,4 @@ setup contain
 - material Ui              ( npm install @mui/material @emotion/react @emotion/styled )
 - dotenv
 - Redux/ReduxToolkit ( not installed )
+- git by Ak
